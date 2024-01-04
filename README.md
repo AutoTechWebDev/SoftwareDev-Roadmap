@@ -4,17 +4,29 @@ I maintained a consistent schedule of 2hrs per day a minimum of 5days per week (
 
 ## Courses - Topic - Duration
 [Python for Everybody](https://www.py4e.com/lessons) - Intro CS -	10 weeks
+
 Introduction to Computer Science and Programming using Python -	Intro CS -	9 weeks
+
 How to Code - Simple Data	Core Programming -	7 weeks
+
 How to Code - Complex Data	Core Programming -	6 weeks
+
 Programming Languages, Part A	Core Programming - 5 weeks
+
 Programming Languages, Part B	Core Programming - 3 weeks
+
 Programming Languages, Part C	Core Programming - 3 weeks
+
 Object-Oriented Design	Core Programming - 4 weeks
+
 Design Patterns	Core Programming - 4 weeks
+
 Software Architecture	Core Programming	4 weeks
+
 Mathematics for Computer Science	Core Math	13 weeks
+
 The Missing Semester of Your CS Education	CS Tools	2 weeks
+
 Build a Modern Computer from First Principles: From Nand to Tetris	Core Systems	6 weeks
 Build a Modern Computer from First Principles: Nand to Tetris Part II	Core Systems	6 weeks
 Operating Systems: Three Easy Pieces	Core Systems	10-12 weeks
