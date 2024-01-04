@@ -1,5 +1,7 @@
 # SoftwareDev-Roadmap
 My personal roadmap to becoming a python software developer. Including all resources, projects, etc 
+
+## Notes on my approach
 I maintained a consistent schedule of 2hrs per day a minimum of 5days per week (usually taking Thursday/Friday off from studying) totaling an estimated 10hrs consistently every week with sometimes more depending on my weekend work/life.
 
 ## Courses - Topic - Duration
